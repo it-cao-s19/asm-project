@@ -43,7 +43,7 @@ The project should be demonstrated for me on class and your implementation code 
 *All group members should have participated actively in producing code and thus it should be possible to find all group members in the git commit history.*
 
 ### Deadline 
-Your implementation should be ready and handed in **before** the first lesson of week 49 (8.20am)
+Your implementation should be ready and handed in **before** the first lesson of week 20 (20th of May) (14:30)
 
 ### Github
 Before starting to commit any code, this repository should be forked to the github account of a group member. This forked repository is where you are going to create your Atmel Studio project and commit your assembler code. Eventually you can "Hand in" by creating a pull request. This will enable me to see your code and provide feedback on your project.
